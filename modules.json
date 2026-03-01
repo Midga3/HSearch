@@ -4,6 +4,7 @@
       "path": "coddrago/modules/stats.py",
       "module_name": "Stats",
       "module_description": "Показывает статистику твоего аккаунта",
+      "module_author": "@codrago_m",
       "commands": [
         {
           "name": "stats",
@@ -15,6 +16,7 @@
       "path": "coddrago/modules/figlet.py",
       "module_name": "Figlet",
       "module_description": "Tool for work with figlet",
+      "module_author": "@codrago_m",
       "commands": [
         {
           "name": "figlet",
@@ -30,6 +32,7 @@
       "path": "coddrago/modules/tagwatcher.py",
       "module_name": "TagWatcher",
       "module_description": "Informs when you are tagged in chats and automatically reads pm.",
+      "module_author": "@codrago_m",
       "commands": [
         {
           "name": "tagwatcher",
@@ -41,6 +44,7 @@
       "path": "coddrago/modules/randnum.py",
       "module_name": "RandomNumbersMod",
       "module_description": "Развлекательный модуль",
+      "module_author": "@codrago_m",
       "commands": [
         {
           "name": "rnum",
@@ -52,6 +56,7 @@
       "path": "coddrago/modules/hardspam.py",
       "module_name": "HardSpam",
       "module_description": "",
+      "module_author": "@codrago_m",
       "commands": [
         {
           "name": "hspam",
@@ -63,6 +68,7 @@
       "path": "coddrago/modules/promoclaimer.py",
       "module_name": "PromoClaimerMod",
       "module_description": "Automatically claim https://t.me/StableWaifuBot promo from any chat",
+      "module_author": "@codrago_m",
       "commands": [
         {
           "name": "checktokens",
@@ -74,6 +80,7 @@
       "path": "coddrago/modules/loli.py",
       "module_name": "lolihentai",
       "module_description": "Your the best friend in loli hentai",
+      "module_author": "@codrago_m",
       "commands": [
         {
           "name": "loli",
@@ -89,6 +96,7 @@
       "path": "coddrago/modules/passwordgen.py",
       "module_name": "PassGen",
       "module_description": "Generate password",
+      "module_author": "@codrago_m",
       "commands": [
         {
           "name": "pass",
@@ -104,6 +112,7 @@
       "path": "coddrago/modules/DoxTool.py",
       "module_name": "dox",
       "module_description": "Maybe... doxing tool?",
+      "module_author": "@codrago_m",
       "commands": [
         {
           "name": "gb",
@@ -123,6 +132,7 @@
       "path": "coddrago/modules/dbmod.py",
       "module_name": "DBMod",
       "module_description": "",
+      "module_author": "@codrago_m",
       "commands": [
         {
           "name": "mydb",
@@ -134,6 +144,7 @@
       "path": "coddrago/modules/autoclicker.py",
       "module_name": "AutoClickerMod",
       "module_description": "Autoclicker for inline buttons.",
+      "module_author": "@codrago_m",
       "commands": [
         {
           "name": "clickon",
@@ -149,6 +160,7 @@
       "path": "coddrago/modules/randomizer.py",
       "module_name": "Randomizer",
       "module_description": "Random - it's life!",
+      "module_author": "@codrago_m",
       "commands": [
         {
           "name": "chance",
@@ -172,6 +184,7 @@
       "path": "coddrago/modules/pinterest.py",
       "module_name": "PinterestDownloader",
       "module_description": "Gives a link to download a file from Pinterest",
+      "module_author": "@codrago_m",
       "commands": [
         {
           "name": "pinterest",
@@ -183,6 +196,7 @@
       "path": "coddrago/modules/speedtest.py",
       "module_name": "SpeedTestMod",
       "module_description": "Module to run speedtest using speedtest library",
+      "module_author": "@codrago_m",
       "commands": [
         {
           "name": "speedtest",
@@ -194,6 +208,7 @@
       "path": "coddrago/modules/compliments.py",
       "module_name": "Compliments",
       "module_description": "Compliments for your partner",
+      "module_author": "@codrago_m",
       "commands": [
         {
           "name": "cg",
@@ -205,6 +220,7 @@
       "path": "coddrago/modules/id.py",
       "module_name": "ID",
       "module_description": "ID of all!",
+      "module_author": "@codrago_m",
       "commands": [
         {
           "name": "userid",
@@ -224,6 +240,7 @@
       "path": "coddrago/modules/pmban.py",
       "module_name": "PMBan",
       "module_description": "Ban in pm for time",
+      "module_author": "@codrago_m",
       "commands": [
         {
           "name": "pmban",
@@ -239,6 +256,7 @@
       "path": "coddrago/modules/emojidown.py",
       "module_name": "EmojiDownloadMod",
       "module_description": "Download emoji from reply",
+      "module_author": "@codrago_m",
       "commands": [
         {
           "name": "emojidown",
@@ -250,6 +268,7 @@
       "path": "coddrago/modules/modlist.py",
       "module_name": "ModulesList",
       "module_description": "Модуль для быстрого доступа к каналам с модулями",
+      "module_author": "@codrago_m",
       "commands": [
         {
           "name": "modlist",
@@ -269,6 +288,7 @@
       "path": "coddrago/modules/YaMusic.py",
       "module_name": "YaMusicMod",
       "module_description": "The module for Yandex.Music streaming service",
+      "module_author": "@codrago_m",
       "commands": [
         {
           "name": "yguide",
@@ -312,6 +332,7 @@
       "path": "coddrago/modules/ascii_face.py",
       "module_name": "Ascii_face",
       "module_description": "Random Ascii Face from utils",
+      "module_author": "@codrago_m",
       "commands": [
         {
           "name": "ascii",
@@ -323,6 +344,7 @@
       "path": "coddrago/modules/send.py",
       "module_name": "Send",
       "module_description": "| module to send messages",
+      "module_author": "@codrago_m",
       "commands": [
         {
           "name": "send",
@@ -338,6 +360,7 @@
       "path": "coddrago/modules/hentai.py",
       "module_name": "Hentai",
       "module_description": "Send to you random hentai media!",
+      "module_author": "@codrago_m",
       "commands": [
         {
           "name": "loli",
@@ -365,6 +388,7 @@
       "path": "coddrago/modules/chatmodule.py",
       "module_name": "ChatModuleMod",
       "module_description": "",
+      "module_author": "@codrago_m",
       "commands": [
         {
           "name": "id",
@@ -468,6 +492,7 @@
       "path": "Den4ikSuperOstryyPer4ik/Astro-modules/achievements.py",
       "module_name": "AchievementsMod",
       "module_description": "Create the achievement from https://minecraft-inside.ru/achievements/\n\nIdea from @Den4ikSOP & @boyhao",
+      "module_author": "@AstroModules",
       "commands": [
         {
           "name": "achievement",
@@ -479,6 +504,7 @@
       "path": "Den4ikSuperOstryyPer4ik/Astro-modules/RandomTrack.py",
       "module_name": "RandomTrackMod",
       "module_description": "Получить рандомный трек. \nИспользуйте категории чтобы сгенерировать трек на свой вкус",
+      "module_author": "@AstroModules",
       "commands": [
         {
           "name": "rt",
@@ -490,6 +516,7 @@
       "path": "Den4ikSuperOstryyPer4ik/Astro-modules/wordly.py",
       "module_name": "WordlyHelper",
       "module_description": "Помощник для игры \"Вордли на Русском\"",
+      "module_author": "@AstroModules",
       "commands": [
         {
           "name": "wordly",
@@ -501,6 +528,7 @@
       "path": "Den4ikSuperOstryyPer4ik/Astro-modules/shazam.py",
       "module_name": "ShazamMod",
       "module_description": "Use <reply to voice> to search for a song using audio.",
+      "module_author": "@AstroModules",
       "commands": [
         {
           "name": "sh",
@@ -512,6 +540,7 @@
       "path": "Den4ikSuperOstryyPer4ik/Astro-modules/Steam.py",
       "module_name": "Steam",
       "module_description": "Get now played game",
+      "module_author": "@AstroModules",
       "commands": [
         {
           "name": "steamnow",
@@ -535,6 +564,7 @@
       "path": "Den4ikSuperOstryyPer4ik/Astro-modules/komarumod.py",
       "module_name": "KomaruMod",
       "module_description": "Random picture/video/gif from the @komarueveryday",
+      "module_author": "@AstroModules",
       "commands": [
         {
           "name": "komaru",
@@ -546,6 +576,7 @@
       "path": "Den4ikSuperOstryyPer4ik/Astro-modules/astroafk.py",
       "module_name": "AstroAfkMod",
       "module_description": "Полностью настраиваемый модуль для ухода в АФК режим! Обновление TxAFK!",
+      "module_author": "@AstroModules",
       "commands": [
         {
           "name": "asst",
@@ -565,6 +596,7 @@
       "path": "Den4ikSuperOstryyPer4ik/Astro-modules/dl_yt_previews.py",
       "module_name": "YTPreviewMod",
       "module_description": "Скачивает превью с ютуба",
+      "module_author": "@AstroModules",
       "commands": [
         {
           "name": "ytp",
@@ -576,6 +608,7 @@
       "path": "Den4ikSuperOstryyPer4ik/Astro-modules/dialogs_manager.py",
       "module_name": "DialogsManagerMod",
       "module_description": "Check your all info for dialogs, chats, PMs\nDelete definite dialog,\ndelete all dialogs by arguments,\nleave the chats, ids/usernames which you specify\nDialogs Manager!",
+      "module_author": "@AstroModules",
       "commands": [
         {
           "name": "dialogsinfo",
@@ -603,6 +636,7 @@
       "path": "Den4ikSuperOstryyPer4ik/Astro-modules/RandomUser.py",
       "module_name": "RandomUserMod",
       "module_description": "choose a random user in chat\nAutors: @AstroModules & @smeowcodes",
+      "module_author": "@AstroModules",
       "commands": [
         {
           "name": "iranduser",
@@ -614,6 +648,7 @@
       "path": "Den4ikSuperOstryyPer4ik/Astro-modules/TwinkManager.py",
       "module_name": "TwinkManagerMod",
       "module_description": "Управление твинками через основной аккаунт.",
+      "module_author": "@AstroModules",
       "commands": [
         {
           "name": "trestart",
@@ -649,6 +684,7 @@
       "path": "Den4ikSuperOstryyPer4ik/Astro-modules/minesweeper.py",
       "module_name": "MineSwepperModule",
       "module_description": "Minesweeper game",
+      "module_author": "@AstroModules",
       "commands": [
         {
           "name": "minesweeper",
@@ -660,6 +696,7 @@
       "path": "Den4ikSuperOstryyPer4ik/Astro-modules/summer.py",
       "module_name": "SummerMod",
       "module_description": "Сколько осталось дней до лета?)",
+      "module_author": "@AstroModules",
       "commands": [
         {
           "name": "st",
@@ -671,6 +708,7 @@
       "path": "Den4ikSuperOstryyPer4ik/Astro-modules/pcmanager.py",
       "module_name": "PCManagerMod",
       "module_description": "Управление вашим компьютером через юзербота",
+      "module_author": "@AstroModules",
       "commands": [
         {
           "name": "addbot",
@@ -722,6 +760,7 @@
       "path": "Den4ikSuperOstryyPer4ik/Astro-modules/inline_bot_manager.py",
       "module_name": "InlineBotManagerMod",
       "module_description": "Control over your Inline bot!",
+      "module_author": "@AstroModules",
       "commands": [
         {
           "name": "inlinebothelp",
@@ -753,6 +792,7 @@
       "path": "Den4ikSuperOstryyPer4ik/Astro-modules/mindtalk.py",
       "module_name": "MindTalkMod",
       "module_description": "Your little psychologist Based on MindTalk by Hikamoru",
+      "module_author": "@AstroModules",
       "commands": [
         {
           "name": "login",
@@ -772,6 +812,7 @@
       "path": "Den4ikSuperOstryyPer4ik/Astro-modules/Emotions.py",
       "module_name": "EmotionsMod",
       "module_description": "Выражение эмоций в чате",
+      "module_author": "@AstroModules",
       "commands": [
         {
           "name": "emogo",
@@ -795,6 +836,7 @@
       "path": "Den4ikSuperOstryyPer4ik/Astro-modules/RandomStatuses.py",
       "module_name": "RandomStatusesMod",
       "module_description": "Рандомные статусы для описания аккаунта в ТГ/Вацап/ВК и т.д.",
+      "module_author": "@AstroModules",
       "commands": [
         {
           "name": "rstatus",
@@ -806,6 +848,7 @@
       "path": "Den4ikSuperOstryyPer4ik/Astro-modules/akinator.py",
       "module_name": "AkinatorGame",
       "module_description": "Akinator will guess any character you have in mind,\nYou just need to answer a couple of questions)",
+      "module_author": "@AstroModules",
       "commands": [
         {
           "name": "akinator",
@@ -817,6 +860,7 @@
       "path": "Den4ikSuperOstryyPer4ik/Astro-modules/iOSAppsForAndroid.py",
       "module_name": "iOSAppsForAndroid",
       "module_description": "iOS Applications for Android, or more simply, Android applications with an interface like on iOS",
+      "module_author": "@AstroModules",
       "commands": [
         {
           "name": "iappslist",
@@ -828,6 +872,7 @@
       "path": "Den4ikSuperOstryyPer4ik/Astro-modules/astroweather.py",
       "module_name": "AstroWeatherMod",
       "module_description": "Модуль для получения информации о погоде в Вашем городе, в красивом формате",
+      "module_author": "@AstroModules",
       "commands": [
         {
           "name": "aw",
@@ -839,6 +884,7 @@
       "path": "Den4ikSuperOstryyPer4ik/Astro-modules/TxAFK.py",
       "module_name": "TxAFKMod",
       "module_description": "Афк модуль от AstroModules с изменением био и имени",
+      "module_author": "@AstroModules",
       "commands": [
         {
           "name": "txcfg",
@@ -858,6 +904,7 @@
       "path": "Den4ikSuperOstryyPer4ik/Astro-modules/brawl_stats.py",
       "module_name": "BrawlStatsInfo",
       "module_description": "Brawl Stars Players/Clubs information :)",
+      "module_author": "@AstroModules",
       "commands": [
         {
           "name": "getmyip",
@@ -889,6 +936,7 @@
       "path": "Den4ikSuperOstryyPer4ik/Astro-modules/gamecheat.py",
       "module_name": "GameeCheatMod",
       "module_description": "Читы для игр в @gamee",
+      "module_author": "@astromodules",
       "commands": [
         {
           "name": "chg",
@@ -900,6 +948,7 @@
       "path": "Den4ikSuperOstryyPer4ik/Astro-modules/demotivator.py",
       "module_name": "DemotivatorMod",
       "module_description": "Demotivate picture with text, arguments and config.",
+      "module_author": "@AstroModules",
       "commands": [
         {
           "name": "demotivate",
@@ -911,6 +960,7 @@
       "path": "Den4ikSuperOstryyPer4ik/Astro-modules/пон_вахуи.py",
       "module_name": "ПонВахуиMod",
       "module_description": "пон и вахуи",
+      "module_author": "@AstroModules",
       "commands": [
         {
           "name": "пон",
@@ -926,6 +976,7 @@
       "path": "Den4ikSuperOstryyPer4ik/Astro-modules/RandomPasswordGenerator.py",
       "module_name": "PasswordGeneratorMod",
       "module_description": "Random password/pincode generator",
+      "module_author": "@AstroModules",
       "commands": [
         {
           "name": "generatorcfg",
@@ -941,6 +992,7 @@
       "path": "Den4ikSuperOstryyPer4ik/Astro-modules/convertio.py",
       "module_name": "ConvertioMod",
       "module_description": "Convert file with api from https://convertio.co",
+      "module_author": "@AstroModules",
       "commands": [
         {
           "name": "renewconvertio",
@@ -956,6 +1008,7 @@
       "path": "Den4ikSuperOstryyPer4ik/Astro-modules/YandexMusic.py",
       "module_name": "YaMusicMod",
       "module_description": "Поиск музыки через музыкального бота от Яндекса",
+      "module_author": "@AstroModules",
       "commands": [
         {
           "name": "ym",
@@ -967,6 +1020,7 @@
       "path": "Den4ikSuperOstryyPer4ik/Astro-modules/video_to_voice.py",
       "module_name": "VideoToVoice",
       "module_description": "Convert Video to voice",
+      "module_author": "@AstroModules",
       "commands": [
         {
           "name": "converttovoice",
@@ -978,6 +1032,7 @@
       "path": "Den4ikSuperOstryyPer4ik/Astro-modules/вахуи_пон.py",
       "module_name": "ВахуиПонMod",
       "module_description": "пон и вахуи",
+      "module_author": "@AstroModules",
       "commands": [
         {
           "name": "пон",
@@ -993,12 +1048,14 @@
       "path": "Den4ikSuperOstryyPer4ik/Astro-modules/commands_logger.py",
       "module_name": "HikkaCommandsLoggerMod",
       "module_description": "Hikka Commands Logger",
+      "module_author": "@AstroModules",
       "commands": []
     },
     {
       "path": "Den4ikSuperOstryyPer4ik/Astro-modules/Compliments.py",
       "module_name": "ComplimentsMod",
       "module_description": "Покажи девушке какая она прекрасная (ну или им, какие они прекрасные)",
+      "module_author": "@AstroModules",
       "commands": [
         {
           "name": "complimentscfg",
@@ -1014,6 +1071,7 @@
       "path": "Den4ikSuperOstryyPer4ik/Astro-modules/AntiMat.py",
       "module_name": "AntiMatMod",
       "module_description": "Будьте культурным человеком, не материтесь",
+      "module_author": "@AstroModules",
       "commands": [
         {
           "name": "antimat",
@@ -1033,6 +1091,7 @@
       "path": "vsecoder/hikka_modules/mazemod.py",
       "module_name": "MazeModMod",
       "module_description": "Module for play maze",
+      "module_author": "@vsecoder_m",
       "commands": [
         {
           "name": "maze",
@@ -1044,6 +1103,7 @@
       "path": "vsecoder/hikka_modules/monkeytype.py",
       "module_name": "MonkeyTypeMod",
       "module_description": "Module for getting information about monkeytype.com stats\n\n{15/30/60/120:times} - dividing tests by time (default: 15)\nNeed only account username (not full link)!",
+      "module_author": "@vsecoder_m",
       "commands": [
         {
           "name": "monkeytypestats",
@@ -1055,6 +1115,7 @@
       "path": "vsecoder/hikka_modules/speechcensorship.py",
       "module_name": "SpeechCensorshipMod",
       "module_description": "Module for censoring your speech",
+      "module_author": "@vsecoder_m",
       "commands": [
         {
           "name": "censorship",
@@ -1066,18 +1127,21 @@
       "path": "vsecoder/hikka_modules/formatter.py",
       "module_name": "FormatterMod",
       "module_description": "Module for prettifying the formatting of messages 🪛\n\n📌 For example write:\n--------------------\nHi, now is {now}, today is {today}, yesterday is {yesterday}, my id is {id}, username is @{username}...\n\n⌨️ Keyboard:\n~\n📥 Modules $ https://t.me/vsecoder_m\n👨‍💻 Dev $ https://t.me/vsecoder\n--------------------\n\nP.S. \"~\" is a separator for keyboard and message.\n     \"$\" is a separator for button and link.",
+      "module_author": "@vsecoder_m",
       "commands": []
     },
     {
       "path": "vsecoder/hikka_modules/MangaSlider.py",
       "module_name": "MangaSliderMod",
       "module_description": "",
+      "module_author": "@vsecoder_m",
       "commands": []
     },
     {
       "path": "vsecoder/hikka_modules/Limoka.py",
       "module_name": "Limoka",
       "module_description": "Hikka modules are now in one place with easy searching!",
+      "module_author": "@limokanews",
       "commands": [
         {
           "name": "limoka",
@@ -1089,6 +1153,7 @@
       "path": "vsecoder/hikka_modules/octocode.py",
       "module_name": "OctoCodeMod",
       "module_description": "Module for octopussed code\n\nhttps://github.com/charmbracelet/freeze based\n\nTo use, run this in .terminal:\n\nwget https://github.com/charmbracelet/freeze/releases/download/v0.1.6/freeze_0.1.6_amd64.deb\nsudo dpkg -i freeze_0.1.6_amd64.deb",
+      "module_author": "@vsecoder_m",
       "commands": [
         {
           "name": "octo",
@@ -1100,6 +1165,7 @@
       "path": "vsecoder/hikka_modules/ascii.py",
       "module_name": "AsciiMod",
       "module_description": "Module for convert image to ascii",
+      "module_author": "@vsecoder_m",
       "commands": [
         {
           "name": "ascii",
@@ -1111,6 +1177,7 @@
       "path": "vsecoder/hikka_modules/CheckMods.py",
       "module_name": "CheckModulesMod",
       "module_description": "Module for check modules",
+      "module_author": "@vsecoder_m",
       "commands": [
         {
           "name": "checkmod",
@@ -1122,6 +1189,7 @@
       "path": "vsecoder/hikka_modules/chatgptfree.py",
       "module_name": "ChatGPTfreeMod",
       "module_description": "Бесплатный модуль для ChatGPT\nhttps://t.me/Jarvis_IT_Assistant_bot\nСначала запустите бота и отключите уведомления",
+      "module_author": "@vsecoder_m",
       "commands": [
         {
           "name": "chatgptfree",
@@ -1137,6 +1205,7 @@
       "path": "vsecoder/hikka_modules/hentaimanga.py",
       "module_name": "HentaiMangaMod",
       "module_description": "",
+      "module_author": "@shadow_modules",
       "commands": [
         {
           "name": "rndhentaimanga",
@@ -1152,12 +1221,14 @@
       "path": "vsecoder/hikka_modules/feedbackbot.py",
       "module_name": "FeedbackBotMod",
       "module_description": "FeedbackBot",
+      "module_author": "@vsecoder_m",
       "commands": []
     },
     {
       "path": "vsecoder/hikka_modules/lmfify.py",
       "module_name": "LMFIFYMod",
       "module_description": "Let me find it for you in Google / Yandex",
+      "module_author": "@vsecoder_m",
       "commands": [
         {
           "name": "findit",
@@ -1169,6 +1240,7 @@
       "path": "vsecoder/hikka_modules/hh.py",
       "module_name": "HHMod",
       "module_description": "@hikkahost userbot manager module",
+      "module_author": "@vsecoder_m",
       "commands": [
         {
           "name": "hinfo",
@@ -1188,6 +1260,7 @@
       "path": "vsecoder/hikka_modules/searx.py",
       "module_name": "SearXMod",
       "module_description": "Module for multi search",
+      "module_author": "@vsecoder_m",
       "commands": [
         {
           "name": "searx",
@@ -1199,6 +1272,7 @@
       "path": "vsecoder/hikka_modules/profile.py",
       "module_name": "Profilemod",
       "module_description": "Module for get beautiful picture profile statistic",
+      "module_author": "@vsecoder_m",
       "commands": [
         {
           "name": "profile",
@@ -1210,6 +1284,7 @@
       "path": "vsecoder/hikka_modules/ymnow.py",
       "module_name": "YmNowBetaMod",
       "module_description": "Module for yandex music. Based on SpotifyNow, YaNow and WakaTime. [BETA]\n\nNow on Ynison API.",
+      "module_author": "@vsecoder_m",
       "commands": [
         {
           "name": "ynow",
@@ -1229,6 +1304,7 @@
       "path": "vsecoder/hikka_modules/RussianRoulette.py",
       "module_name": "RussianRouletteMod",
       "module_description": "Module for \"Russian roulette\" game",
+      "module_author": "@vsecoder_m",
       "commands": [
         {
           "name": "revolver",
@@ -1240,6 +1316,7 @@
       "path": "vsecoder/hikka_modules/hypixel.py",
       "module_name": "HypixelMod",
       "module_description": "Module for getting information about minecraft Hypixel player (beta)",
+      "module_author": "@vsecoder_m",
       "commands": [
         {
           "name": "stat",
@@ -1251,6 +1328,7 @@
       "path": "vsecoder/hikka_modules/vsecodertranslate.py",
       "module_name": "VseTranslateMod",
       "module_description": "Traslate text",
+      "module_author": "@vsecoder_m",
       "commands": [
         {
           "name": "vsetranslate",
@@ -1262,6 +1340,7 @@
       "path": "vsecoder/hikka_modules/googleit.py",
       "module_name": "GoogleItMod",
       "module_description": "Module for google search",
+      "module_author": "@vsecoder_m",
       "commands": [
         {
           "name": "googleit",
@@ -1273,6 +1352,7 @@
       "path": "vsecoder/hikka_modules/biopage.py",
       "module_name": "BioPageMod",
       "module_description": "Module for create bio page",
+      "module_author": "@vsecoder_m",
       "commands": [
         {
           "name": "biotoggle",
@@ -1284,6 +1364,7 @@
       "path": "vsecoder/hikka_modules/steam.py",
       "module_name": "SteamMod",
       "module_description": "Module for get Steam account information\n\nLater (TODO):\n- achivments list\n- {STEAM} widget",
+      "module_author": "@vsecoder_m",
       "commands": [
         {
           "name": "steam",
@@ -1295,6 +1376,7 @@
       "path": "vsecoder/hikka_modules/quotes.py",
       "module_name": "QuotesMod",
       "module_description": "Quotes by @vsecoder [beta]\n\nNow doesn't work stickers, gifs, video.\n(Fake stories later)\n\nThk t.me/Fl1yd, based on his SQuotes module\nThk t.me/hikariatama, recognize from VTT module",
+      "module_author": "@vsecoder_m",
       "commands": [
         {
           "name": "q",
@@ -1314,6 +1396,7 @@
       "path": "vsecoder/hikka_modules/calc.py",
       "module_name": "CalcMod",
       "module_description": "Module for inline calc",
+      "module_author": "@vsecoder_m",
       "commands": [
         {
           "name": "calc",
@@ -1325,6 +1408,7 @@
       "path": "vsecoder/hikka_modules/accounttime.py",
       "module_name": "AcTimeMod",
       "module_description": "Module for get account time",
+      "module_author": "@vsecoder_m",
       "commands": [
         {
           "name": "actime",
@@ -1336,6 +1420,7 @@
       "path": "vsecoder/hikka_modules/ymnowbeta.py",
       "module_name": "YmNowBetaMod",
       "module_description": "Module for yandex music. Based on SpotifyNow, YaNow and WakaTime. [BETA]",
+      "module_author": "@vsecoder_m",
       "commands": [
         {
           "name": "ynow",
@@ -1351,6 +1436,7 @@
       "path": "vsecoder/hikka_modules/wikimod.py",
       "module_name": "WikiMod",
       "module_description": "Module for wikipedia search",
+      "module_author": "@vsecoder_m",
       "commands": [
         {
           "name": "wiki",
@@ -1362,6 +1448,7 @@
       "path": "GD-alt/mm-hikka-mods/YandexTrans.py",
       "module_name": "YaTranslateMod",
       "module_description": "Guaranteed to be the most advanced and feature-rich message translation module based on Yandex Translate,\nwith many useful features (GoogleTrans, but rewritten). RR-version (Requirements Reduced).",
+      "module_author": "@mm_mods",
       "commands": [
         {
           "name": "yautotranslate",
@@ -1413,6 +1500,7 @@
       "path": "GD-alt/mm-hikka-mods/MMAS.py",
       "module_name": "MMASMod",
       "module_description": "Protects your account from spam if anyone accessed your account/session.",
+      "module_author": "@mm_mods",
       "commands": [
         {
           "name": "mmas",
@@ -1428,6 +1516,7 @@
       "path": "GD-alt/mm-hikka-mods/versteck.py",
       "module_name": "VersteckMod",
       "module_description": "Work with VersteckAPI — download modules if you are common user, grant permissions for downloading if you are\ndeveloper!",
+      "module_author": "@mm_mods",
       "commands": [
         {
           "name": "newv",
@@ -1471,6 +1560,7 @@
       "path": "GD-alt/mm-hikka-mods/atoll.py",
       "module_name": "AtollMod",
       "module_description": "Atoll — it's like am Atool (Admin Tool) but sounds nicer. Some basic moderation features, just for me. Clean\ndocs, pure user experience.",
+      "module_author": "@mm_mods",
       "commands": [
         {
           "name": "mute",
@@ -1586,6 +1676,7 @@
       "path": "GD-alt/mm-hikka-mods/asap.py",
       "module_name": "ASAPMod",
       "module_description": "Advanced Sending Automatisation Program",
+      "module_author": "@mm_mods",
       "commands": [
         {
           "name": "ataskadd",
@@ -1633,6 +1724,7 @@
       "path": "GD-alt/mm-hikka-mods/miyahost.py",
       "module_name": "MiyaHostMod",
       "module_description": "Module to manage your miyahost.",
+      "module_author": "@mm_mods",
       "commands": [
         {
           "name": "mhinfo",
@@ -1656,6 +1748,7 @@
       "path": "GD-alt/mm-hikka-mods/Grapes.py",
       "module_name": "GrapesMod",
       "module_description": "Searching for random pic for your query. Original version/idea: Fl1yd.",
+      "module_author": "@mm_mods",
       "commands": [
         {
           "name": "pic",
@@ -1671,6 +1764,7 @@
       "path": "GD-alt/mm-hikka-mods/LiMERPMod.py",
       "module_name": "RPMod",
       "module_description": "A little upgraded mod of module of @trololo_1.",
+      "module_author": "@mm_mods",
       "commands": [
         {
           "name": "dobrp",
@@ -1730,6 +1824,7 @@
       "path": "GD-alt/mm-hikka-mods/Reactor.py",
       "module_name": "ReactTorMod",
       "module_description": "Reacts manager.",
+      "module_author": "@mm_mods",
       "commands": [
         {
           "name": "rshorthand",
@@ -1753,6 +1848,7 @@
       "path": "GD-alt/mm-hikka-mods/AGA.py",
       "module_name": "AbsolutGrossartigAntwortMod",
       "module_description": "Tired of people asking you questions? Let this module answer them for you!\nP.S. Author is not responsible for all your problems after using it.",
+      "module_author": "@mm_mods",
       "commands": [
         {
           "name": "aga",
@@ -1764,6 +1860,7 @@
       "path": "GD-alt/mm-hikka-mods/Holidays.py",
       "module_name": "HolidaysMod",
       "module_description": "Holidays today.",
+      "module_author": "@mm_mods",
       "commands": [
         {
           "name": "hollist",
@@ -1775,6 +1872,7 @@
       "path": "GD-alt/mm-hikka-mods/PremiumStickers.py",
       "module_name": "PSAMod",
       "module_description": "Send premium stickers without premium! Advanced version of Hikariatama's module.",
+      "module_author": "@mm_mods",
       "commands": [
         {
           "name": "psa",
@@ -1790,6 +1888,7 @@
       "path": "GD-alt/mm-hikka-mods/MHelp.py",
       "module_name": "MHelpMod",
       "module_description": "Helps to download mods to file and automaticaly make simple descriptions for your modules.",
+      "module_author": "@minimaxno",
       "commands": [
         {
           "name": "setun",
@@ -1813,6 +1912,7 @@
       "path": "GD-alt/mm-hikka-mods/Dicedestroyer.py",
       "module_name": "DicedestroyerMod",
       "module_description": "Keeps your chat clean from dices, darts and so on.",
+      "module_author": "@minimaxno",
       "commands": [
         {
           "name": "deldice",
@@ -1824,6 +1924,7 @@
       "path": "GD-alt/mm-hikka-mods/GLyrics.py",
       "module_name": "GLyricsMod",
       "module_description": "Get lyrics from Genius",
+      "module_author": "@mm_mods",
       "commands": [
         {
           "name": "lyrics",
@@ -1835,6 +1936,7 @@
       "path": "GD-alt/mm-hikka-mods/GoogleTrans.py",
       "module_name": "GoogleTranslateMod",
       "module_description": "Guaranteed to be the most advanced and feature-rich message translation module based on Google Translate,\nwith many useful features.",
+      "module_author": "@mm_mods",
       "commands": [
         {
           "name": "autotranslate",
@@ -1886,6 +1988,7 @@
       "path": "GD-alt/mm-hikka-mods/Rechte.py",
       "module_name": "RechteMod",
       "module_description": "Group rights viewer and manager.",
+      "module_author": "@mm_mods",
       "commands": [
         {
           "name": "switchib",
@@ -1989,6 +2092,7 @@
       "path": "GD-alt/mm-hikka-mods/Entziferrer.py",
       "module_name": "EntziffererMod",
       "module_description": "Decoding QR codes.",
+      "module_author": "@mm_mods",
       "commands": [
         {
           "name": "scancode",
@@ -2000,6 +2104,7 @@
       "path": "GD-alt/mm-hikka-mods/Prodia.py",
       "module_name": "ProdiaMod",
       "module_description": "Image generator based on Prodia API. No API key required.",
+      "module_author": "@mm_mods",
       "commands": [
         {
           "name": "prodia",
@@ -2011,6 +2116,7 @@
       "path": "GD-alt/mm-hikka-mods/CoVis.py",
       "module_name": "CoVisMod",
       "module_description": "Visualise colors by those formules.",
+      "module_author": "@mm_mods",
       "commands": [
         {
           "name": "hpic",
@@ -2042,6 +2148,7 @@
       "path": "GD-alt/mm-hikka-mods/GoogleTransRR.py",
       "module_name": "GoogleTranslateMod",
       "module_description": "Guaranteed to be the most advanced and feature-rich message translation module based on Google Translate,\nwith many useful features.",
+      "module_author": "@mm_mods",
       "commands": [
         {
           "name": "autotranslate",
@@ -2093,6 +2200,7 @@
       "path": "N3rcy/modules/ocr.py",
       "module_name": "OCRMod",
       "module_description": "Module for Optical Character Recognition",
+      "module_author": "@nercymods",
       "commands": [
         {
           "name": "ocr",
@@ -2104,6 +2212,7 @@
       "path": "N3rcy/modules/news.py",
       "module_name": "NewsMod",
       "module_description": "Module for displaying news from various sources",
+      "module_author": "@nercymods",
       "commands": [
         {
           "name": "playground",
@@ -2143,6 +2252,7 @@
       "path": "N3rcy/modules/progmusic.py",
       "module_name": "MusicModule",
       "module_description": "Module for music for programming from https://musicforprogramming.net/",
+      "module_author": "@nercymods",
       "commands": [
         {
           "name": "prmusic",
@@ -2154,6 +2264,7 @@
       "path": "N3rcy/modules/watch.py",
       "module_name": "WatcherModule",
       "module_description": "Module for watching and responding to specific words",
+      "module_author": "@nercymods",
       "commands": [
         {
           "name": "addwatch",
@@ -2173,6 +2284,7 @@
       "path": "N3rcy/modules/clown.py",
       "module_name": "ClownModule",
       "module_description": "Модуль для клоунизации 'pov - <username>'",
+      "module_author": "@nercymods",
       "commands": [
         {
           "name": "clown",
@@ -2184,6 +2296,7 @@
       "path": "N3rcy/modules/emoji.py",
       "module_name": "EmojiInfo",
       "module_description": "Module for retrieving information about emojis from emojipedia.org",
+      "module_author": "@nercymods",
       "commands": [
         {
           "name": "emoji",
@@ -2195,6 +2308,7 @@
       "path": "N3rcy/modules/jikan.py",
       "module_name": "JikanModule",
       "module_description": "Module for working with Jikan API",
+      "module_author": "@nercymods",
       "commands": [
         {
           "name": "sanime",
@@ -2230,6 +2344,7 @@
       "path": "N3rcy/modules/twitch.py",
       "module_name": "TwitchModule",
       "module_description": "Module for downloading Twitch clips and videos",
+      "module_author": "@nercymods",
       "commands": [
         {
           "name": "twitch",
@@ -2245,6 +2360,7 @@
       "path": "N3rcy/modules/whisper.py",
       "module_name": "WhisperMod",
       "module_description": "Module for speech recognition",
+      "module_author": "@nercymods",
       "commands": [
         {
           "name": "whisper",
@@ -2272,6 +2388,7 @@
       "path": "N3rcy/modules/github.py",
       "module_name": "GitHubMod",
       "module_description": "Module for fetching GitHub profile or repository information",
+      "module_author": "@nercymods",
       "commands": [
         {
           "name": "gitprof",
@@ -2287,6 +2404,7 @@
       "path": "N3rcy/modules/top.py",
       "module_name": "Top",
       "module_description": "Module for viewing the top list in chat",
+      "module_author": "@nercymods",
       "commands": [
         {
           "name": "top",
@@ -2298,6 +2416,7 @@
       "path": "N3rcy/modules/GameInfo.py",
       "module_name": "GameInfo",
       "module_description": "Module for fetching game information from RAWG",
+      "module_author": "@nercymods",
       "commands": [
         {
           "name": "gameinfo",
@@ -2309,6 +2428,7 @@
       "path": "sqlmerr/hikka_mods/silentmessages.py",
       "module_name": "SilentMessages",
       "module_description": "With this module you won't miss important messages sent without sound!",
+      "module_author": "@sqlmerr_m",
       "commands": [
         {
           "name": "silentmessages",
@@ -2320,6 +2440,7 @@
       "path": "sqlmerr/hikka_mods/autoforward.py",
       "module_name": "AutoForward",
       "module_description": "Автоматически пересылает сообщения из каналов в один",
+      "module_author": "@sqlmerr_m",
       "commands": [
         {
           "name": "autoforward",
@@ -2331,6 +2452,7 @@
       "path": "sqlmerr/hikka_mods/quicktools.py",
       "module_name": "QuickTools",
       "module_description": "Module with various quick and useful tools",
+      "module_author": "@sqlmerr_m",
       "commands": [
         {
           "name": "id",
@@ -2354,6 +2476,7 @@
       "path": "sqlmerr/hikka_mods/addlinktosymbols.py",
       "module_name": "AddLinkToSymbols",
       "module_description": "Add link to symbols in text",
+      "module_author": "@sqlmerr_m",
       "commands": [
         {
           "name": "addlinktosymbols",
@@ -2365,6 +2488,7 @@
       "path": "sqlmerr/hikka_mods/fakedata.py",
       "module_name": "FakeData",
       "module_description": "Just fake data of persons and credit cards",
+      "module_author": "@sqlmerr_m",
       "commands": [
         {
           "name": "fakedata",
@@ -2376,6 +2500,7 @@
       "path": "sqlmerr/hikka_mods/codeformat.py",
       "module_name": "CodeFormat",
       "module_description": "Format your code!",
+      "module_author": "@sqlmerr_m",
       "commands": [
         {
           "name": "code",
@@ -2387,6 +2512,7 @@
       "path": "sqlmerr/hikka_mods/autoformatter.py",
       "module_name": "AutoFormatter",
       "module_description": "Automatically formats the text of your messages | Check The Config",
+      "module_author": "@sqlmerr_m",
       "commands": [
         {
           "name": "textformat",
@@ -2398,6 +2524,7 @@
       "path": "sqlmerr/hikka_mods/egsfreegames.py",
       "module_name": "EGSFreeGames",
       "module_description": "Module for checking free games in Epic Games Store. Inline bot will send them every day in special chat",
+      "module_author": "@sqlmerr_m",
       "commands": [
         {
           "name": "egsgames",
@@ -2409,6 +2536,7 @@
       "path": "sqlmerr/hikka_mods/FastChangeTgStatus.py",
       "module_name": "FCTS",
       "module_description": "Change your status fast. Only for premium users | Изменяйте ваш статус быстро. Только для премиум пользователей",
+      "module_author": "@sqlmerr_m",
       "commands": [
         {
           "name": "statuschange",
@@ -2432,6 +2560,7 @@
       "path": "sqlmerr/hikka_mods/triggers.py",
       "module_name": "Triggers",
       "module_description": "Triggers watch chat messages and can do anything, reply to a message with a given text, delete a message, execute any userbot command. Overall, a very cool module",
+      "module_author": "@sqlmerr_m",
       "commands": [
         {
           "name": "triggeraddbase",
@@ -2479,6 +2608,7 @@
       "path": "sqlmerr/hikka_mods/upgradedeval.py",
       "module_name": "UpgradedEval",
       "module_description": "Just eval with customizable text and stdout",
+      "module_author": "@sqlmerr_m",
       "commands": [
         {
           "name": "ehistory",
@@ -2506,6 +2636,7 @@
       "path": "sqlmerr/hikka_mods/currencyconverter.py",
       "module_name": "CurrencyConverter",
       "module_description": "Module for converting a large number of currencies to other currencies",
+      "module_author": "@sqlmerr_m",
       "commands": [
         {
           "name": "cconvert",
@@ -2517,6 +2648,7 @@
       "path": "sqlmerr/hikka_mods/numbersfacts.py",
       "module_name": "NumbersFacts",
       "module_description": "Interesting facts about numbers | Check the config",
+      "module_author": "@sqlmerr_m",
       "commands": [
         {
           "name": "numberfact",
@@ -2528,6 +2660,7 @@
       "path": "sqlmerr/hikka_mods/inlinetimer.py",
       "module_name": "InlineTimer",
       "module_description": "Описание нашего модуля",
+      "module_author": "@sqlmerr_m",
       "commands": [
         {
           "name": "timer",
@@ -2539,6 +2672,7 @@
       "path": "sqlmerr/hikka_mods/random_emoji.py",
       "module_name": "RandomEmoji",
       "module_description": "Just random emojis",
+      "module_author": "@sqlmerr_m",
       "commands": [
         {
           "name": "randomemoji",
@@ -2550,6 +2684,7 @@
       "path": "sqlmerr/hikka_mods/translation_manager.py",
       "module_name": "TranslationManager",
       "module_description": "Module for managing external modules translations",
+      "module_author": "@sqlmerr_m",
       "commands": [
         {
           "name": "trget",
@@ -2569,6 +2704,7 @@
       "path": "sqlmerr/hikka_mods/animatedprofile.py",
       "module_name": "AnimatedProfile",
       "module_description": "Module for your profile animation (name, bio) look in the config",
+      "module_author": "@sqlmerr_m",
       "commands": [
         {
           "name": "animatedname",
@@ -2592,6 +2728,7 @@
       "path": "KorenbZla/HikkaModules/Reports.py",
       "module_name": "ReportsMod",
       "module_description": "Module for sending reports to the administration.",
+      "module_author": "@AuroraModules",
       "commands": [
         {
           "name": "addadmins",
@@ -2615,6 +2752,7 @@
       "path": "KorenbZla/HikkaModules/AuroraAFK.py",
       "module_name": "AuroraAFKMod",
       "module_description": "Your personal assistant to while you are in AFK mode",
+      "module_author": "@AuroraModules",
       "commands": [
         {
           "name": "afk",
@@ -2638,6 +2776,7 @@
       "path": "KorenbZla/HikkaModules/Wikipedia.py",
       "module_name": "WikipediaMod",
       "module_description": "Search for information on Wikipedia",
+      "module_author": "@AuroraModules",
       "commands": [
         {
           "name": "wikiru",
@@ -2653,6 +2792,7 @@
       "path": "KorenbZla/HikkaModules/MyDebtors.py",
       "module_name": "MyDebtorsMod",
       "module_description": "Module for managing, adding, and deleting your debtors.",
+      "module_author": "@AuroraModules",
       "commands": [
         {
           "name": "dadd",
@@ -2684,6 +2824,7 @@
       "path": "KorenbZla/HikkaModules/RPSgame.py",
       "module_name": "RPSgameMod",
       "module_description": "With this module, you can play the game «rock, paper, scissors».",
+      "module_author": "@AuroraModules",
       "commands": [
         {
           "name": "sgamerps",
@@ -2699,6 +2840,7 @@
       "path": "KorenbZla/HikkaModules/WordFinder.py",
       "module_name": "WordFinderMod",
       "module_description": "Universal module for searching for certain words in the text.",
+      "module_author": "@AuroraModules",
       "commands": [
         {
           "name": "wfind",
@@ -2710,6 +2852,7 @@
       "path": "KorenbZla/HikkaModules/Melody.py",
       "module_name": "MelodyMod",
       "module_description": "Module for playing various songs in a chat",
+      "module_author": "@AuroraModules",
       "commands": [
         {
           "name": "заденьгида",
@@ -2729,6 +2872,7 @@
       "path": "KorenbZla/HikkaModules/Meow.py",
       "module_name": "MeowMod",
       "module_description": "Start meowing in different languages",
+      "module_author": "@AuroraModules",
       "commands": [
         {
           "name": "meow",
@@ -2744,6 +2888,7 @@
       "path": "KorenbZla/HikkaModules/IrisFarm.py",
       "module_name": "IrisFarmMod",
       "module_description": "Auto farm in iris bot",
+      "module_author": "@AuroraModules",
       "commands": [
         {
           "name": "irfarm",
@@ -2759,6 +2904,7 @@
       "path": "KorenbZla/HikkaModules/AutoDeleteMessages.py",
       "module_name": "AutoDeleteMessagesMod",
       "module_description": "Automatically deletes all your messages in the specified chats.",
+      "module_author": "@AuroraModules",
       "commands": [
         {
           "name": "autodel",
@@ -2770,6 +2916,7 @@
       "path": "KorenbZla/HikkaModules/Send.py",
       "module_name": "SendMod",
       "module_description": "Assistant for sending messages",
+      "module_author": "@AuroraModules",
       "commands": [
         {
           "name": "send",
@@ -2793,6 +2940,7 @@
       "path": "KorenbZla/HikkaModules/BanWord.py",
       "module_name": "BanWordMod",
       "module_description": "Модуль для управления запрещёнными словами в чате.",
+      "module_author": "@AuroraModules",
       "commands": [
         {
           "name": "bwadd",
@@ -2824,6 +2972,7 @@
       "path": "KorenbZla/HikkaModules/AutoFarmUniversal.py",
       "module_name": "AutoFarmUniversalMod",
       "module_description": "Universal auto farmer with settings in the config",
+      "module_author": "@AuroraModules",
       "commands": [
         {
           "name": "ufarm",
@@ -2835,6 +2984,7 @@
       "path": "KorenbZla/HikkaModules/HerokuAuroraFeedBack.py",
       "module_name": "AuroraFeedBackMod",
       "module_description": "Multifunctional feedback bot.",
+      "module_author": "@AuroraModules",
       "commands": [
         {
           "name": "flink",
@@ -2854,6 +3004,7 @@
       "path": "KorenbZla/HikkaModules/Deanon.py",
       "module_name": "Deanon",
       "module_description": "",
+      "module_author": "@AuroraModules",
       "commands": [
         {
           "name": "deanon",
@@ -2865,6 +3016,7 @@
       "path": "KorenbZla/HikkaModules/Warpigs.py",
       "module_name": "WarpigsMod",
       "module_description": "Automates work with @warpigs_bot",
+      "module_author": "@AuroraModules",
       "commands": [
         {
           "name": "autogrow",
@@ -2892,6 +3044,7 @@
       "path": "KorenbZla/HikkaModules/RandomAvatars.py",
       "module_name": "RandomAvatars",
       "module_description": "",
+      "module_author": "@AuroraModules",
       "commands": [
         {
           "name": "rpavatars",
@@ -2903,6 +3056,7 @@
       "path": "KorenbZla/HikkaModules/Randomizer.py",
       "module_name": "RandomizerMod",
       "module_description": "Module for playing with dice, heads/tails and other games.",
+      "module_author": "@AuroraModules",
       "commands": [
         {
           "name": "cube",
@@ -2922,6 +3076,7 @@
       "path": "KorenbZla/HikkaModules/RandomNumber.py",
       "module_name": "RandomNumberMod",
       "module_description": "Random numbers generator",
+      "module_author": "@AuroraModules",
       "commands": [
         {
           "name": "RandomNumber",
@@ -2933,6 +3088,7 @@
       "path": "KorenbZla/HikkaModules/AuroraSpam.py",
       "module_name": "AuroraSpamMod",
       "module_description": "Module for mailings message",
+      "module_author": "@AuroraModules",
       "commands": [
         {
           "name": "aspam",
@@ -2944,6 +3100,7 @@
       "path": "KorenbZla/HikkaModules/AuroraBull.py",
       "module_name": "AuroraBullMod",
       "module_description": "Module for insults, make the interlocutor depressed.",
+      "module_author": "@AuroraModules",
       "commands": [
         {
           "name": "abull",
@@ -2963,6 +3120,7 @@
       "path": "KorenbZla/HikkaModules/AuroraFeedBack.py",
       "module_name": "AuroraFeedBackMod",
       "module_description": "Multifunctional feedback bot.",
+      "module_author": "@AuroraModules",
       "commands": [
         {
           "name": "flink",
@@ -2982,6 +3140,7 @@
       "path": "KorenbZla/HikkaModules/HistoryFacts.py",
       "module_name": "HistoryFactMod",
       "module_description": "Get a random historical fact",
+      "module_author": "@AuroraModules",
       "commands": [
         {
           "name": "rfact",
@@ -3005,6 +3164,7 @@
       "path": "KorenbZla/HikkaModules/AuroraDonate.py",
       "module_name": "AuroraDonateMod",
       "module_description": "Module for creating a message with your details for donations",
+      "module_author": "@AuroraModules",
       "commands": [
         {
           "name": "dme",
@@ -3016,6 +3176,7 @@
       "path": "KorenbZla/HikkaModules/AuroraFarm.py",
       "module_name": "AuroraFarmMod",
       "module_description": "Automatic progress farm at @kynimeister_bot",
+      "module_author": "@AuroraModules",
       "commands": [
         {
           "name": "afarm",
@@ -3027,6 +3188,7 @@
       "path": "FajoX1/FAmods/CodeBase64.py",
       "module_name": "CodeBase64",
       "module_description": "Encode and decode base64",
+      "module_author": "@FAmods",
       "commands": [
         {
           "name": "cbase64",
@@ -3042,6 +3204,7 @@
       "path": "FajoX1/FAmods/stats.py",
       "module_name": "Stats",
       "module_description": "Показывает статистику твоего аккаунта",
+      "module_author": "@FAmods",
       "commands": [
         {
           "name": "stats",
@@ -3053,6 +3216,7 @@
       "path": "FajoX1/FAmods/cryptoqr.py",
       "module_name": "CryptoQR",
       "module_description": "Создание QR код в стиле CryptoBot",
+      "module_author": "@FAmods",
       "commands": [
         {
           "name": "cqr",
@@ -3064,6 +3228,7 @@
       "path": "FajoX1/FAmods/tondns.py",
       "module_name": "TonDNS",
       "module_description": "Модуль для работы с Ton DNS",
+      "module_author": "@FAmods",
       "commands": [
         {
           "name": "itondns",
@@ -3079,6 +3244,7 @@
       "path": "FajoX1/FAmods/anonsms.py",
       "module_name": "AnonSMS",
       "module_description": "Анонимное сообщение",
+      "module_author": "@FAmods",
       "commands": [
         {
           "name": "getanonlink",
@@ -3094,6 +3260,7 @@
       "path": "FajoX1/FAmods/avachanger.py",
       "module_name": "AvaChanger",
       "module_description": "Смена аватарки по времени",
+      "module_author": "@FAmods",
       "commands": [
         {
           "name": "avatarl",
@@ -3109,6 +3276,7 @@
       "path": "FajoX1/FAmods/pricefreedom.py",
       "module_name": "PriceFreedom",
       "module_description": "Автоматизированная работа с @rabstvo_game_bot",
+      "module_author": "@FAmods",
       "commands": [
         {
           "name": "pfpromo",
@@ -3128,6 +3296,7 @@
       "path": "FajoX1/FAmods/banforaskmod.py",
       "module_name": "BanForAskMod",
       "module_description": "Бан за просьбу дать модулей",
+      "module_author": "@FAmods",
       "commands": [
         {
           "name": "bfmsettings",
@@ -3139,6 +3308,7 @@
       "path": "FajoX1/FAmods/freegpt.py",
       "module_name": "FreeGPT",
       "module_description": "Бесплатный ChatGPT. БЕЗ API. БЕЗ БОТОВ.",
+      "module_author": "@FAmods",
       "commands": [
         {
           "name": "gf",
@@ -3154,6 +3324,7 @@
       "path": "FajoX1/FAmods/proxy.py",
       "module_name": "Proxy",
       "module_description": "Работа с прокси",
+      "module_author": "@FAmods",
       "commands": [
         {
           "name": "gproxy",
@@ -3169,6 +3340,7 @@
       "path": "FajoX1/FAmods/fun.py",
       "module_name": "Fun",
       "module_description": "Module for fun...",
+      "module_author": "@FAmods",
       "commands": [
         {
           "name": "hacku",
@@ -3188,6 +3360,7 @@
       "path": "FajoX1/FAmods/tonscan.py",
       "module_name": "Tonscan",
       "module_description": "Информация о TON адресе",
+      "module_author": "@FAmods",
       "commands": [
         {
           "name": "tonwallet",
@@ -3211,6 +3384,7 @@
       "path": "FajoX1/FAmods/chmodslist.py",
       "module_name": "CHmodsList",
       "module_description": "Список каналов с модулями (идея: @codrago)",
+      "module_author": "@FAmods",
       "commands": [
         {
           "name": "chsettings",
@@ -3226,6 +3400,7 @@
       "path": "FajoX1/FAmods/ytsearch.py",
       "module_name": "YTsearch",
       "module_description": "Поиск в Youtube",
+      "module_author": "@FAmods",
       "commands": [
         {
           "name": "ytvsearch",
@@ -3241,6 +3416,7 @@
       "path": "FajoX1/FAmods/famod.py",
       "module_name": "Famod",
       "module_description": "Управление вещами, связанными с @FAmods_Bot",
+      "module_author": "@FAmods",
       "commands": [
         {
           "name": "fmstats",
@@ -3260,6 +3436,7 @@
       "path": "FajoX1/FAmods/wakatime.py",
       "module_name": "Wakatime",
       "module_description": "Показывает твою Wakatime статистику",
+      "module_author": "@FAmods",
       "commands": [
         {
           "name": "waka",
@@ -3271,6 +3448,7 @@
       "path": "FajoX1/FAmods/evalaliases.py",
       "module_name": "EvalAliases",
       "module_description": "Алиаси для eval",
+      "module_author": "@FAmods",
       "commands": [
         {
           "name": "addea",
@@ -3290,6 +3468,7 @@
       "path": "FajoX1/FAmods/gsearch.py",
       "module_name": "Gsearch",
       "module_description": "Поиск в Google",
+      "module_author": "@FAmods",
       "commands": [
         {
           "name": "gsearch",
@@ -3301,6 +3480,7 @@
       "path": "FajoX1/FAmods/picme.py",
       "module_name": "PicMe",
       "module_description": "Кринж модуль",
+      "module_author": "@FAmods",
       "commands": [
         {
           "name": "picme",
@@ -3312,6 +3492,7 @@
       "path": "FajoX1/FAmods/checkhost.py",
       "module_name": "CheckHost",
       "module_description": "Проверка доступности веб-сайтов, серверов, хостов и IP-адресов с разных геолокаций и тд.",
+      "module_author": "@FAmods",
       "commands": [
         {
           "name": "chhttp",
@@ -3323,6 +3504,7 @@
       "path": "FajoX1/FAmods/giveaways.py",
       "module_name": "Giveaways",
       "module_description": "Авто-участие в розыгрышах Telegram Premium",
+      "module_author": "@FAmods",
       "commands": [
         {
           "name": "gwtg",
@@ -3334,6 +3516,7 @@
       "path": "FajoX1/FAmods/hetalib.py",
       "module_name": "HetaLib",
       "module_description": "Модуль для работы с heta",
+      "module_author": "@FAmods",
       "commands": [
         {
           "name": "hsearch",
@@ -3353,6 +3536,7 @@
       "path": "FajoX1/FAmods/edmes.py",
       "module_name": "Edmes",
       "module_description": "Редактирует сообщение с заданим текстом.",
+      "module_author": "@FAmods",
       "commands": [
         {
           "name": "edmsg",
@@ -3364,6 +3548,7 @@
       "path": "FajoX1/FAmods/cocoon.py",
       "module_name": "Cocoon",
       "module_description": "Взаимодействие с Cocoon от HikkaHost",
+      "module_author": "@FAmods",
       "commands": [
         {
           "name": "ccusage",
@@ -3379,6 +3564,7 @@
       "path": "FajoX1/FAmods/bigmac.py",
       "module_name": "BigMac",
       "module_description": "Авто-фарм в @BigMacMetreBot",
+      "module_author": "@FAmods",
       "commands": [
         {
           "name": "bigmacs",
@@ -3398,6 +3584,7 @@
       "path": "FajoX1/FAmods/telegrapher.py",
       "module_name": "Telegrapher",
       "module_description": "Создание статей и другое связанное с telegra.ph",
+      "module_author": "@FAmods",
       "commands": [
         {
           "name": "tghpost",
@@ -3413,6 +3600,7 @@
       "path": "FajoX1/FAmods/ptichki.py",
       "module_name": "Ptichki",
       "module_description": "Генератор птиц",
+      "module_author": "@FAmods",
       "commands": [
         {
           "name": "ptichka",
@@ -3428,6 +3616,7 @@
       "path": "FajoX1/FAmods/grokai.py",
       "module_name": "GrokAI",
       "module_description": "Взаимодействие с Grok AI",
+      "module_author": "@FAmods",
       "commands": [
         {
           "name": "grok",
@@ -3439,6 +3628,7 @@
       "path": "FajoX1/FAmods/xrocket.py",
       "module_name": "xRocket",
       "module_description": "Автоматизация базового функционала @xRocket",
+      "module_author": "@FAmods",
       "commands": [
         {
           "name": "xwallet",
@@ -3458,6 +3648,7 @@
       "path": "FajoX1/FAmods/phoneinfo.py",
       "module_name": "PhoneInfo",
       "module_description": "Информация о телефоне",
+      "module_author": "@FAmods",
       "commands": [
         {
           "name": "pnsearch",
@@ -3473,6 +3664,7 @@
       "path": "FajoX1/FAmods/epsilion.py",
       "module_name": "Epsilion",
       "module_description": "Авто-фарм в @EpsilionWarBot",
+      "module_author": "@FAmods",
       "commands": [
         {
           "name": "eps",
@@ -3492,6 +3684,7 @@
       "path": "FajoX1/FAmods/gigachat.py",
       "module_name": "GigaChat",
       "module_description": "GigaChat AI. БЕЗ АПИ",
+      "module_author": "@FAmods",
       "commands": [
         {
           "name": "ggchat",
@@ -3503,6 +3696,7 @@
       "path": "FajoX1/FAmods/vaper.py",
       "module_name": "Vaper",
       "module_description": "Авто-фарм в @vapeusebot",
+      "module_author": "@FAmods",
       "commands": [
         {
           "name": "vape",
@@ -3522,6 +3716,7 @@
       "path": "FajoX1/FAmods/executor.py",
       "module_name": "Executor",
       "module_description": "Выполнение python кода",
+      "module_author": "@FAmods",
       "commands": [
         {
           "name": "exec",
@@ -3533,6 +3728,7 @@
       "path": "FajoX1/FAmods/fabusiness.py",
       "module_name": "FAbusiness",
       "module_description": "Бесплатный Telegram business",
+      "module_author": "@FAmods",
       "commands": [
         {
           "name": "business",
@@ -3548,6 +3744,7 @@
       "path": "FajoX1/FAmods/fabrika.py",
       "module_name": "Fabrika",
       "module_description": "Авто-фарм в @fabrika",
+      "module_author": "@FAmods",
       "commands": [
         {
           "name": "fbrw",
@@ -3583,6 +3780,7 @@
       "path": "FajoX1/FAmods/hbotcommand.py",
       "module_name": "HbotCommand",
       "module_description": "Дополнительная команда для твоего inline бота",
+      "module_author": "@FAmods",
       "commands": [
         {
           "name": "busername",
@@ -3598,6 +3796,7 @@
       "path": "FajoX1/FAmods/gemini.py",
       "module_name": "Gemini",
       "module_description": "Взаимодействие с AI Gemini",
+      "module_author": "@FAmods",
       "commands": [
         {
           "name": "gemini",
@@ -3609,6 +3808,7 @@
       "path": "FajoX1/FAmods/faker.py",
       "module_name": "Faker",
       "module_description": "Генерация фейк информации",
+      "module_author": "@FAmods",
       "commands": [
         {
           "name": "gfake",
@@ -3620,6 +3820,7 @@
       "path": "FajoX1/FAmods/infoip.py",
       "module_name": "InfoIP",
       "module_description": "Информация об IP адресе",
+      "module_author": "@FAmods",
       "commands": [
         {
           "name": "ipi",
@@ -3631,6 +3832,7 @@
       "path": "FajoX1/FAmods/hetsu.py",
       "module_name": "Hetsu",
       "module_description": "Search and install modules easily.",
+      "module_author": "@FAmods",
       "commands": [
         {
           "name": "hetsu",
@@ -3646,6 +3848,7 @@
       "path": "FajoX1/FAmods/autogh.py",
       "module_name": "AutoGH",
       "module_description": "Авто-коммиты в Github",
+      "module_author": "@FAmods",
       "commands": [
         {
           "name": "autocommit",
@@ -3657,12 +3860,14 @@
       "path": "FajoX1/FAmods/famods_socket.py",
       "module_name": "FAmodsSocket",
       "module_description": "Установка модулей через @FAmods_Bot",
+      "module_author": "@FAmods",
       "commands": []
     },
     {
       "path": "FajoX1/FAmods/timer.py",
       "module_name": "Timer",
       "module_description": "Показывает сколько времени осталось",
+      "module_author": "@FAmods",
       "commands": [
         {
           "name": "stime",
@@ -3674,6 +3879,7 @@
       "path": "FajoX1/FAmods/requirements.py",
       "module_name": "Requirements",
       "module_description": "Работа с pip пакетами в модуле",
+      "module_author": "@FAmods",
       "commands": [
         {
           "name": "dldeps",
@@ -3693,6 +3899,7 @@
       "path": "FajoX1/FAmods/spotify4ik.py",
       "module_name": "Spotify4ik",
       "module_description": "Слушай музыку в Spotify",
+      "module_author": "@FAmods",
       "commands": [
         {
           "name": "spauth",
@@ -3752,6 +3959,7 @@
       "path": "FajoX1/FAmods/removebg.py",
       "module_name": "RemoveBG",
       "module_description": "Убрать фон из изображения",
+      "module_author": "@FAmods",
       "commands": [
         {
           "name": "removebg",
@@ -3763,6 +3971,7 @@
       "path": "ZetGoHack/Nullmod/SchedulePlus.py",
       "module_name": "SchedulePlus",
       "module_description": "Планирование периодичных сообщений",
+      "module_author": "@nullmod",
       "commands": [
         {
           "name": "sch",
@@ -3774,6 +3983,7 @@
       "path": "ZetGoHack/Nullmod/HaremManager.py",
       "module_name": "HaremManager",
       "module_description": "Module for harem bots: Gif Harem, Waifu Harem, Horny Harem",
+      "module_author": "@nullmod",
       "commands": [
         {
           "name": "Harems",
@@ -3789,6 +3999,7 @@
       "path": "ZetGoHack/Nullmod/Chess.py",
       "module_name": "Chess",
       "module_description": "A reworked version of the Chess module",
+      "module_author": "@nullmod",
       "commands": [
         {
           "name": "chess",
@@ -3804,6 +4015,7 @@
       "path": "ZetGoHack/Nullmod/Gradientor.py",
       "module_name": "Gradientor",
       "module_description": "",
+      "module_author": "@nullmod",
       "commands": [
         {
           "name": "makepp",
@@ -3819,6 +4031,7 @@
       "path": "codermasochist/AsModules/TonDonate.py",
       "module_name": "TonDonate",
       "module_description": "Создает ссылку на оплату TON. by @codermasochist",
+      "module_author": "@codermasochist",
       "commands": [
         {
           "name": "dton",
@@ -3830,6 +4043,7 @@
       "path": "codermasochist/AsModules/StarsRates.py",
       "module_name": "StarsRates",
       "module_description": "узнать курс тг звезд. (fragment.com)",
+      "module_author": "@codermasochist",
       "commands": [
         {
           "name": "sr",
@@ -3845,6 +4059,7 @@
       "path": "codermasochist/AsModules/Gulag.py",
       "module_name": "Gulag",
       "module_description": "Democratic justice system for your chat. Let the people decide who goes to gulag!",
+      "module_author": "@AssaMods",
       "commands": [
         {
           "name": "gulag",
@@ -3856,6 +4071,7 @@
       "path": "codermasochist/AsModules/AsEdit.py",
       "module_name": "AsEdits",
       "module_description": "кидает ахуенные эдиты. by @codermasochist",
+      "module_author": "@codermasochist",
       "commands": [
         {
           "name": "asedit",
@@ -3871,6 +4087,7 @@
       "path": "codermasochist/AsModules/tonviewer.py",
       "module_name": "tonviewer",
       "module_description": "парсит инфу из тонвиера.",
+      "module_author": "@codermasochist",
       "commands": [
         {
           "name": "tonvw",
@@ -3886,6 +4103,7 @@
       "path": "codermasochist/AsModules/GiftsVisibility.py",
       "module_name": "GiftsVisibility",
       "module_description": "Hidden & Shows Gifts.\n-l лимитированные\n-g обычные\n-n уникальные (NFT)\nбез аргументов — все",
+      "module_author": "@AssaMods",
       "commands": [
         {
           "name": "hgifts",
@@ -3901,6 +4119,7 @@
       "path": "codermasochist/AsModules/DecimalAge.py",
       "module_name": "decimalage",
       "module_description": "узнать свой точнейший возраст",
+      "module_author": "@codermasochist",
       "commands": [
         {
           "name": "exactage",
@@ -3912,6 +4131,7 @@
       "path": "json1c/userbot-lab/liquid_rescale.py",
       "module_name": "LiquidRescaleMod",
       "module_description": "",
+      "module_author": "@json1c_modules",
       "commands": [
         {
           "name": "lqp",
@@ -3927,6 +4147,7 @@
       "path": "json1c/userbot-lab/buller.py",
       "module_name": "FuckerMod",
       "module_description": "",
+      "module_author": "@json1c_modules",
       "commands": [
         {
           "name": "clearbull",
@@ -3958,6 +4179,7 @@
       "path": "json1c/userbot-lab/yandex_music.py",
       "module_name": "YandexMusicMod",
       "module_description": "",
+      "module_author": "@json1c_modules",
       "commands": [
         {
           "name": "dlt",
@@ -3969,6 +4191,7 @@
       "path": "json1c/userbot-lab/dev_monitoring.py",
       "module_name": "DevMontiroingMod",
       "module_description": "",
+      "module_author": "@json1c_modules",
       "commands": [
         {
           "name": "addmon",
@@ -3988,6 +4211,7 @@
       "path": "Ruslan-Isaev/modules/Надстрочка.py",
       "module_name": "НадстрочкаMod",
       "module_description": "Делает надстрочный текст",
+      "module_author": null,
       "commands": [
         {
           "name": "up",
@@ -3999,6 +4223,7 @@
       "path": "Ruslan-Isaev/modules/IrisAutoFarm.py",
       "module_name": "IrisAutoFarm",
       "module_description": "Автофарм в ирисе",
+      "module_author": "@RUIS_VlP",
       "commands": [
         {
           "name": "блэкстарт",
@@ -4010,6 +4235,7 @@
       "path": "Ruslan-Isaev/modules/ttf.py",
       "module_name": "TTFMod",
       "module_description": "Создает текстовый файл, отправляет его в Telegram, а затем удаляет.",
+      "module_author": "@RUIS_VlP",
       "commands": [
         {
           "name": "ttf",
@@ -4021,6 +4247,7 @@
       "path": "Ruslan-Isaev/modules/DogPic.py",
       "module_name": "DogPicMod",
       "module_description": "Модуль для фотографий с милыми собачками",
+      "module_author": "@RUIS_VlP",
       "commands": [
         {
           "name": "dogpic",
@@ -4032,6 +4259,7 @@
       "path": "Ruslan-Isaev/modules/financemod.py",
       "module_name": "FinanceMod",
       "module_description": "",
+      "module_author": "@matubuntu",
       "commands": [
         {
           "name": "valute",
@@ -4047,6 +4275,7 @@
       "path": "Ruslan-Isaev/modules/GeoMod.py",
       "module_name": "GeoMod",
       "module_description": "Модуль для отправки геолокации с указанным адресом или координатами",
+      "module_author": "@RUIS_VlP",
       "commands": [
         {
           "name": "sendgeo",
@@ -4058,6 +4287,7 @@
       "path": "Ruslan-Isaev/modules/ssh.py",
       "module_name": "SSHMod",
       "module_description": "Модуль для работы с SSH",
+      "module_author": "@RUIS_VlP",
       "commands": [
         {
           "name": "sftpsave",
@@ -4081,6 +4311,7 @@
       "path": "Ruslan-Isaev/modules/Amnesty.py",
       "module_name": "AmnestyMod",
       "module_description": "Модуль для разбана всех пользователей в чате или в лс (амнистия)",
+      "module_author": "@RUIS_VlP",
       "commands": [
         {
           "name": "amnesty",
@@ -4096,6 +4327,7 @@
       "path": "Ruslan-Isaev/modules/spellchecker.py",
       "module_name": "SpellerMod",
       "module_description": "",
+      "module_author": "@RUIS_VlP",
       "commands": [
         {
           "name": "spellcheck",
@@ -4107,6 +4339,7 @@
       "path": "Ruslan-Isaev/modules/checkmodule.py",
       "module_name": "CheckModulesMod",
       "module_description": "Модуль для проверки модулей",
+      "module_author": "@matubuntu",
       "commands": [
         {
           "name": "checkmod",
@@ -4118,6 +4351,7 @@
       "path": "Ruslan-Isaev/modules/S3.py",
       "module_name": "S3Mod",
       "module_description": "Модуль для работы с S3 хранилищами",
+      "module_author": "@RUIS_VlP",
       "commands": [
         {
           "name": "S3upload",
@@ -4169,6 +4403,7 @@
       "path": "Ruslan-Isaev/modules/clck.py",
       "module_name": "ClckMod",
       "module_description": "Помогает сократить ссылку в clck.ru или расшифровать укороченную ссылку.",
+      "module_author": "@RUIS_VlP",
       "commands": [
         {
           "name": "schort",
@@ -4184,6 +4419,7 @@
       "path": "Ruslan-Isaev/modules/search.py",
       "module_name": "SearchMod",
       "module_description": "🌐 Internet search module",
+      "module_author": "@RUIS_VlP",
       "commands": [
         {
           "name": "picsearch",
@@ -4203,6 +4439,7 @@
       "path": "Ruslan-Isaev/modules/youtube-loader.py",
       "module_name": "YouTube_DLDMod",
       "module_description": "Помогает скачивать видео с YouTube, TikTok и др.",
+      "module_author": "@RUIS_VlP",
       "commands": [
         {
           "name": "dvlist",
@@ -4218,6 +4455,7 @@
       "path": "Ruslan-Isaev/modules/whois.py",
       "module_name": "WhoisMod",
       "module_description": "Модуль для получения информации о домене или ip адресе",
+      "module_author": "@RUIS_VlP",
       "commands": [
         {
           "name": "whois",
@@ -4229,6 +4467,7 @@
       "path": "Ruslan-Isaev/modules/grok.py",
       "module_name": "GrokAIMod",
       "module_description": "Модуль для нейросети Grok через бота @GrokAI",
+      "module_author": "@RUIS_VlP",
       "commands": [
         {
           "name": "grokdel",
@@ -4244,6 +4483,7 @@
       "path": "Ruslan-Isaev/modules/ThreadLink.py",
       "module_name": "ThreadMod",
       "module_description": "Модуль для получения ветки",
+      "module_author": "@RUIS_VlP",
       "commands": [
         {
           "name": "threadlink",
@@ -4255,6 +4495,7 @@
       "path": "Ruslan-Isaev/modules/NewMlMod.py",
       "module_name": "NewMlMod",
       "module_description": "A module for uploading modules as a file. Let's just say it's a heavily stripped-down UnitHeta.",
+      "module_author": null,
       "commands": [
         {
           "name": "nml",
@@ -4266,6 +4507,7 @@
       "path": "Ruslan-Isaev/modules/barcode.py",
       "module_name": "BarcodeGeneratorMod",
       "module_description": "Генерирует штрих код (code128) ",
+      "module_author": "@RUIS_VlP",
       "commands": [
         {
           "name": "barcode",
@@ -4277,6 +4519,7 @@
       "path": "Ruslan-Isaev/modules/Quotly.py",
       "module_name": "QuotlyMod",
       "module_description": "Модуль для создания стикеров по сообщению через @QuotLyBot",
+      "module_author": "@RUIS_VlP",
       "commands": [
         {
           "name": "quotly",
@@ -4288,6 +4531,7 @@
       "path": "Ruslan-Isaev/modules/tornodes.py",
       "module_name": "TorNodes",
       "module_description": "Получает список мостов для сети Tor",
+      "module_author": "@matubuntu",
       "commands": [
         {
           "name": "bridge",
@@ -4303,6 +4547,7 @@
       "path": "Ruslan-Isaev/modules/gitrepo.py",
       "module_name": "GitRepoMod",
       "module_description": "Клонирует git репозиторий и отправляет его в виде zip-архива",
+      "module_author": "@qShad0_bio",
       "commands": [
         {
           "name": "git",
@@ -4318,6 +4563,7 @@
       "path": "Ruslan-Isaev/modules/DNSResolver.py",
       "module_name": "DNSResolverMod",
       "module_description": "Модуль для отправки DNS запросов ",
+      "module_author": "@RUIS_VlP",
       "commands": [
         {
           "name": "resolve",
@@ -4329,6 +4575,7 @@
       "path": "Ruslan-Isaev/modules/gigagpt.py",
       "module_name": "RUISChatGPTMod",
       "module_description": "ChatGPT 3, Gigachat без API ключа и с контекстом. Бот, который используется для запросов: @Gigachat_bot и @GPTChatRBot. Модуль распространяется по лицензии MIT.",
+      "module_author": "@RUIS_VlP",
       "commands": [
         {
           "name": "gptdel",
@@ -4352,6 +4599,7 @@
       "path": "Ruslan-Isaev/modules/GenNick.py",
       "module_name": "GenNickMod",
       "module_description": "Простой генератор ников",
+      "module_author": "@RUIS_VlP",
       "commands": [
         {
           "name": "GenNick",
@@ -4367,6 +4615,7 @@
       "path": "Ruslan-Isaev/modules/Figlet.py",
       "module_name": "FigletMod",
       "module_description": "Длинные слова лучше переносить на другую строчку. Пример:\n`.figlet Hello\nWorld!`\nЕсли написать в одну строчку, то слово не уместится в одно сообщение ",
+      "module_author": "@RUIS_VlP",
       "commands": [
         {
           "name": "figlet",
@@ -4378,6 +4627,7 @@
       "path": "fiksofficial/python-modules/qrgen.py",
       "module_name": "QRGenMod",
       "module_description": "Generate QR codes from text or links",
+      "module_author": "@pymodule",
       "commands": [
         {
           "name": "qr",
@@ -4389,6 +4639,7 @@
       "path": "fiksofficial/python-modules/aigenuser.py",
       "module_name": "AiUsernameGen",
       "module_description": "AI-powered username generation and automatic creation of public channels with available usernames. (Before you begin, set up the config: .config AiUsernameGen)",
+      "module_author": "@pymodule",
       "commands": [
         {
           "name": "genuser",
@@ -4400,6 +4651,7 @@
       "path": "fiksofficial/python-modules/channeladapter.py",
       "module_name": "ChannelAdapterMod",
       "module_description": "Модуль для добавления переходника в сообщения каналов",
+      "module_author": "@PyModule",
       "commands": [
         {
           "name": "addadapter",
@@ -4423,6 +4675,7 @@
       "path": "fiksofficial/python-modules/autoprofile.py",
       "module_name": "AutoProfileMod",
       "module_description": "Automatically update your profile description",
+      "module_author": "@pymodule",
       "commands": [
         {
           "name": "autodesc",
@@ -4450,6 +4703,7 @@
       "path": "fiksofficial/python-modules/githubinfo.py",
       "module_name": "GitHubInfoMod",
       "module_description": "GitHub user information",
+      "module_author": "@pymodule",
       "commands": [
         {
           "name": "github",
@@ -4461,6 +4715,7 @@
       "path": "fiksofficial/python-modules/getusername.py",
       "module_name": "GetUserMod",
       "module_description": "Получает username пользователя по его ID",
+      "module_author": "@PyModule",
       "commands": [
         {
           "name": "getuser",
@@ -4472,6 +4727,7 @@
       "path": "fiksofficial/python-modules/point.py",
       "module_name": "PointSentenceCaseMod",
       "module_description": "Automatically capitalizes the first letter of each sentence and adds a period at the end of the message (if there isn't one).",
+      "module_author": "@pymodule",
       "commands": [
         {
           "name": "pointcase",
@@ -4487,6 +4743,7 @@
       "path": "fiksofficial/python-modules/irisrp.py",
       "module_name": "IrisRP",
       "module_description": "РП команды как в боте Ирис.",
+      "module_author": "@PyModule",
       "commands": [
         {
           "name": "addrp",
@@ -4518,6 +4775,7 @@
       "path": "fiksofficial/python-modules/wiki.py",
       "module_name": "WikiSearchMod",
       "module_description": "Search Wikipedia articles",
+      "module_author": "@pymodule",
       "commands": [
         {
           "name": "wiki",
@@ -4529,6 +4787,7 @@
       "path": "fiksofficial/python-modules/deviceinfo.py",
       "module_name": "DeviceInfo",
       "module_description": "A module for obtaining information about smartphones",
+      "module_author": "@pymodule",
       "commands": [
         {
           "name": "deviceinfo",
@@ -4540,6 +4799,7 @@
       "path": "fiksofficial/python-modules/multiunloadmodule.py",
       "module_name": "MultiUnloadModule",
       "module_description": "Unloads several modules at once with one command",
+      "module_author": "@pymodule",
       "commands": [
         {
           "name": "mulm",
@@ -4551,6 +4811,7 @@
       "path": "fiksofficial/python-modules/createpacks.py",
       "module_name": "CreatePacks",
       "module_description": "Creates sticker packs and emoji packs from the avatars of chat participants",
+      "module_author": "@pymodule",
       "commands": [
         {
           "name": "createavatars",
@@ -4566,6 +4827,7 @@
       "path": "fiksofficial/python-modules/randomizer.py",
       "module_name": "RandomizerMod",
       "module_description": "Randomly selects one of the comma-separated values.",
+      "module_author": "@pymodule",
       "commands": [
         {
           "name": "randomize",
@@ -4577,6 +4839,7 @@
       "path": "fiksofficial/python-modules/checkhost.py",
       "module_name": "CheckHostMod",
       "module_description": "Check host via check-host.net",
+      "module_author": null,
       "commands": [
         {
           "name": "checkhost",
@@ -4588,6 +4851,7 @@
       "path": "fiksofficial/python-modules/sysinfo.py",
       "module_name": "SysInfoMod",
       "module_description": "System information.",
+      "module_author": "@pymodule",
       "commands": [
         {
           "name": "sysinfo",
@@ -4599,6 +4863,7 @@
       "path": "fiksofficial/python-modules/tagall2.0.py",
       "module_name": "TagAllMod",
       "module_description": "TagAll 2.0 — smart mention of chat participants: .tagall {all/admins/online/active} {text}",
+      "module_author": "@pymodule",
       "commands": [
         {
           "name": "tagall",
@@ -4610,6 +4875,7 @@
       "path": "fiksofficial/python-modules/speedtest.py",
       "module_name": "SpeedTestMod",
       "module_description": "Checking your internet speed",
+      "module_author": "@pymodule",
       "commands": [
         {
           "name": "speed",
@@ -4621,6 +4887,7 @@
       "path": "fiksofficial/python-modules/ai.py",
       "module_name": "AIModule",
       "module_description": "Module for interacting with AI",
+      "module_author": "@pymodule",
       "commands": [
         {
           "name": "ai",
@@ -4648,6 +4915,7 @@
       "path": "fiksofficial/python-modules/histart.py",
       "module_name": "HistartMod",
       "module_description": "🔁 Automatically restarts your userbot at set intervals.\n\n⏱ Use .setrestart <interval> and .histart on/off to enable/disable.",
+      "module_author": "@pymodule",
       "commands": [
         {
           "name": "setrestart",
@@ -4663,6 +4931,7 @@
       "path": "fiksofficial/python-modules/lyrics.py",
       "module_name": "LyricsMod",
       "module_description": "Модуль для поиска текста песни через Genius API напрямую",
+      "module_author": "@PyModule",
       "commands": [
         {
           "name": "lyrics",
@@ -4674,6 +4943,7 @@
       "path": "fiksofficial/python-modules/mpi.py",
       "module_name": "MinecraftPlayerInfo",
       "module_description": "A module for obtaining information about a Minecraft player by nickname",
+      "module_author": "@pymodule",
       "commands": [
         {
           "name": "mcplayer",
@@ -4685,6 +4955,7 @@
       "path": "fiksofficial/python-modules/calc.py",
       "module_name": "CalcMod",
       "module_description": "Калькулятор.",
+      "module_author": "@pymodule",
       "commands": [
         {
           "name": "calc",
@@ -4696,6 +4967,7 @@
       "path": "fiksofficial/python-modules/cutemessages.py",
       "module_name": "CuteMessages",
       "module_description": "Makes your messages extra cute with adorable styles!",
+      "module_author": "@pymodule",
       "commands": [
         {
           "name": "cutemessages",
@@ -4711,6 +4983,7 @@
       "path": "fiksofficial/python-modules/dscanner.py",
       "module_name": "DomainScannerMod",
       "module_description": "Scan a domain / Сканирование домена",
+      "module_author": "@pymodule",
       "commands": [
         {
           "name": "domscan",
@@ -4722,6 +4995,7 @@
       "path": "fiksofficial/python-modules/userparser.py",
       "module_name": "UserIDParserMod",
       "module_description": "Парсер ID, имени, фамилии и юзернейма пользователей с выбором формата файла",
+      "module_author": "@PyModule",
       "commands": [
         {
           "name": "formatpars",
@@ -4737,6 +5011,7 @@
       "path": "mead0wsss/mead0wsMods/AutoFormatting.py",
       "module_name": "AutoFormatting",
       "module_description": "Модуль для автоматического форматирования вашего текста в чате.",
+      "module_author": "@mead0wssMods",
       "commands": [
         {
           "name": "bold",
@@ -4772,6 +5047,7 @@
       "path": "mead0wsss/mead0wsMods/DDNetPlayerTime.py",
       "module_name": "DDNetPlayerTime",
       "module_description": "Получение статистики отыгранного времени игрока DDNet с ddstats.tw",
+      "module_author": "@mead0wssMods",
       "commands": [
         {
           "name": "ddpt",
@@ -4783,6 +5059,7 @@
       "path": "mead0wsss/mead0wsMods/FaceitStatus.py",
       "module_name": "FaceitStatus",
       "module_description": "Модуль для установки статуса в зависимости от уровня FACEIT CS 2",
+      "module_author": "@mead0wssMods",
       "commands": [
         {
           "name": "onfac",
@@ -4798,6 +5075,7 @@
       "path": "mead0wsss/mead0wsMods/SenderGifts.py",
       "module_name": "SenderGifts",
       "module_description": "Модуль для отправки подарков Telegram прямиком в чате",
+      "module_author": "@mead0wssMods",
       "commands": [
         {
           "name": "sendgift",
@@ -4809,6 +5087,7 @@
       "path": "mead0wsss/mead0wsMods/MyFACEIT.py",
       "module_name": "MyFACEIT",
       "module_description": "Модуль для получения информации о своем профиле FACEIT",
+      "module_author": "@mead0wssMods",
       "commands": [
         {
           "name": "myfaceit",
@@ -4820,6 +5099,7 @@
       "path": "mead0wsss/mead0wsMods/DDNetStats.py",
       "module_name": "DDNetStats",
       "module_description": "Модуль для просмотра статистики игрока DDNet через ddstats.tw",
+      "module_author": "@mead0wssMods",
       "commands": [
         {
           "name": "ddstats",
@@ -4835,6 +5115,7 @@
       "path": "mead0wsss/mead0wsMods/tmpfiles.py",
       "module_name": "tmpfilesMod",
       "module_description": "Модуль для загрузки файлов на tmpfiles.org",
+      "module_author": "@mead0wssMods",
       "commands": [
         {
           "name": "tmpfiles",
@@ -4846,6 +5127,7 @@
       "path": "mead0wsss/mead0wsMods/Twitch.py",
       "module_name": "TwitchMod",
       "module_description": "Модуль для работы с Twitch",
+      "module_author": "@mead0wssMods",
       "commands": [
         {
           "name": "followed",
@@ -4873,6 +5155,7 @@
       "path": "mead0wsss/mead0wsMods/RussianRoulette.py",
       "module_name": "RouletteMod",
       "module_description": "Модуль для игры в Русскую рулетку. При поражении выкидывает с чата.",
+      "module_author": "@mead0wssMods",
       "commands": [
         {
           "name": "roulette",
@@ -4884,6 +5167,7 @@
       "path": "mead0wsss/mead0wsMods/InfoPresets.py",
       "module_name": "InfoPresets",
       "module_description": "Управление пресетами для HerokuInfo",
+      "module_author": "@mead0wssMods",
       "commands": [
         {
           "name": "createpr",
@@ -4915,6 +5199,7 @@
       "path": "mead0wsss/mead0wsMods/SteamProfile.py",
       "module_name": "SteamProfile",
       "module_description": "Модуль для получения информации о пользователях Steam.",
+      "module_author": "@mead0wssMods",
       "commands": [
         {
           "name": "steamprofile",
@@ -4926,6 +5211,7 @@
       "path": "radiocycle/Modules/voicetotext.py",
       "module_name": "VoiceToTextMod",
       "module_description": "",
+      "module_author": "@ke_mods",
       "commands": [
         {
           "name": "vtt",
@@ -4937,6 +5223,7 @@
       "path": "radiocycle/Modules/Neofetch.py",
       "module_name": "NeofetchMod",
       "module_description": "",
+      "module_author": "@ke_mods",
       "commands": [
         {
           "name": "neofetch",
@@ -4948,6 +5235,7 @@
       "path": "radiocycle/Modules/UnbanAll.py",
       "module_name": "UnbanAllMod",
       "module_description": "",
+      "module_author": "@ke_mods",
       "commands": [
         {
           "name": "unbanall",
@@ -4959,6 +5247,7 @@
       "path": "radiocycle/Modules/SpotifyMod.py",
       "module_name": "SpotifyMod",
       "module_description": "Card with the currently playing track on Spotify.",
+      "module_author": "@ke_mods",
       "commands": [
         {
           "name": "splaylistadd",
@@ -5066,6 +5355,7 @@
       "path": "radiocycle/Modules/LastFm.py",
       "module_name": "lastfmmod",
       "module_description": "Module for music from different services",
+      "module_author": "@ke_mods",
       "commands": [
         {
           "name": "nowplay",
@@ -5077,6 +5367,7 @@
       "path": "radiocycle/Modules/PicToStories.py",
       "module_name": "PicToStoriesMod",
       "module_description": "Grid for stories",
+      "module_author": "@ke_mods",
       "commands": [
         {
           "name": "pts",
@@ -5088,6 +5379,7 @@
       "path": "radiocycle/Modules/randomanimepic.py",
       "module_name": "RandomAnimePicMod",
       "module_description": "",
+      "module_author": "@ke_mods",
       "commands": [
         {
           "name": "rapic",
@@ -5099,6 +5391,7 @@
       "path": "SenkoGuardian/SenModules/MaillingChatGT99.py",
       "module_name": "MailChats",
       "module_description": "Модуль для массовой рассылки сообщений по чатам (Поддерживает все типы сообщений)",
+      "module_author": "@SenkoGuardianModules",
       "commands": [
         {
           "name": "mailhelp",
@@ -5166,6 +5459,7 @@
       "path": "SenkoGuardian/SenModules/GiftFinder.py",
       "module_name": "GiftFinderMod",
       "module_description": "Парсер пользователей с NFT-подарками в чате.",
+      "module_author": "@SenkoGuardianModules",
       "commands": [
         {
           "name": "giftscan",
@@ -5177,6 +5471,7 @@
       "path": "SenkoGuardian/SenModules/NekoEditorMod.py",
       "module_name": "NekoEditorMod",
       "module_description": "Neko-редактор сообщений | Владелецы: @SstAngelStar × @ilovesenko ",
+      "module_author": "@SenkoGuardianModules",
       "commands": [
         {
           "name": "nekoed",
