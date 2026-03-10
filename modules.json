@@ -1,3 +1,47 @@
 {
-  "modules": []
+  "modules": [
+    {
+      "path": "Midga3/Heroku-modules/ZOV.py",
+      "module_name": "NiceMessagesMod",
+      "module_description": "Я СКАЗАЛ ГОЙДАААА",
+      "module_author": "@midga3_modules",
+      "commands": []
+    },
+    {
+      "path": "Midga3/Heroku-modules/fhetastatus.py",
+      "module_name": "FHetaStatus",
+      "module_description": "NOT OFFICIAL FHeta MODULE\nCheck fheta status",
+      "module_author": "@midga3_modules",
+      "commands": [
+        {
+          "name": "fping",
+          "description": "check fheta status | (RU) проверить статус FHeta."
+        }
+      ]
+    },
+    {
+      "path": "Midga3/Heroku-modules/deletelinux.py",
+      "module_name": "DeleteLinuxMod",
+      "module_description": "A module to delete linux lol",
+      "module_author": "@midga3_modules",
+      "commands": [
+        {
+          "name": "deletelinux",
+          "description": "delete Linux | (RU) удалить линукс."
+        }
+      ]
+    },
+    {
+      "path": "Midga3/Heroku-modules/radiolistener.py",
+      "module_name": "RadioListener",
+      "module_description": "Listen and check radio stations",
+      "module_author": "@midga3_modules",
+      "commands": [
+        {
+          "name": "radio",
+          "description": "search radio. | (RU) поиск радио."
+        }
+      ]
+    }
+  ]
 }
